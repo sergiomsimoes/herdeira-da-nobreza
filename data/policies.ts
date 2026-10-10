@@ -20,13 +20,25 @@ export const policies = [
     ],
   },
   {
-    id: "video",
-    title: "Política de videochamadas",
+    id: "foto",
+    title: "Política de Consulta por Foto e Áudio",
     content: [
-      "Esteja disponível alguns minutos antes. Atrasos reduzem o tempo restante e não estendem automaticamente o atendimento.",
-      "Use ambiente silencioso e reservado. A consulta é individual; terceiros dependem de autorização prévia.",
-      "Não é permitido gravar, capturar tela, áudio, vídeo ou fotografar as cartas sem autorização.",
-      "O consulente é responsável por aparelho e conexão. O tempo contratado continua correndo durante explicações e interrupções.",
+      "A consulta por foto e áudio é indicada para quem busca praticidade e não precisa conversar com a cartomante em tempo real.",
+      "Não é necessário agendar data e horário. Entre em contato, escolha a tiragem, realize o pagamento e envie todas as informações solicitadas para a consulta.",
+      "Após a confirmação do pagamento, o atendimento entra na fila e segue a ordem de confirmação dos pagamentos.",
+      "A consulta será entregue em até 24 horas, mas não necessariamente no horário desejado pelo consulente.",
+      "Quando disponível, o atendimento prioritário (fura fila) pode ser contratado mediante a taxa correspondente.",
+    ],
+  },
+  {
+    id: "video",
+    title: "Política de Consulta por Videochamada",
+    content: [
+      "O horário agendado é reservado exclusivamente para o consulente. Esteja disponível alguns minutos antes; atrasos reduzem o tempo restante e não estendem automaticamente o atendimento.",
+      "Use um ambiente silencioso e reservado. A consulta é individual e a presença ou participação de terceiros depende de autorização prévia da cartomante.",
+      "Não é permitido gravar a videochamada, capturar tela, áudio ou vídeo, fotografar a consulta ou registrar as cartas sem autorização prévia.",
+      "O consulente é responsável pelo aparelho e pela conexão. Problemas técnicos não geram acréscimo automático de tempo; entre em contato para verificar a possibilidade de reagendamento.",
+      "O tempo contratado continua correndo durante explicações, relatos e interrupções. Respeito e espaço para a realização da leitura são indispensáveis durante todo o atendimento.",
     ],
   },
   {
